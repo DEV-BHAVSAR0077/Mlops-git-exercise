@@ -1,5 +1,7 @@
 class HelloWorld:
     def main():
+        print("Hello, World!, My name is Dev Bhavsar")
+        print("writting inside the GitHub")
         print("Hello, World!, My name is Dev Bhavsar, I am learning MLOps")
 
 
